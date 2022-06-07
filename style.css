@@ -13,8 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: hsl(240, 73%, 65%);
+]    background-color: hsl(240, 73%, 65%);
     font-family: 'Kumbh Sans', sans-serif;
 }
 
